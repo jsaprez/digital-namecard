@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:jsadams@scj.com
 TEL;type=WORK;type=VOICE:+1 414 459 9501
 item1.ADR;type=WORK;type=pref:;;1525 Howe St\nRacine\, WI;;;53403;USA 
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:scjohnson.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
