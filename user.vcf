@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Adams;John;;;
+FN: John S. Adams 
+ORG:S. C. Johnson & Son, Inc.;
+TITLE:Associate Manager\, Information Security
+EMAIL;type=INTERNET;type=WORK;type=pref:jsadams@scj.com
+TEL;type=WORK;type=VOICE:+1 414 459 9501
+item1.ADR;type=WORK;type=pref:;;1525 Howe St\nRacine\, WI;;;53403;USA 
 item1.X-ABADR:sg
 item2.URL;type=pref:tech.gov.sg
 item2.X-ABLabel:_$!<HomePage>!$_
